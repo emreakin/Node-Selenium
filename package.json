@@ -1,0 +1,10 @@
+{
+  "name": "nodeselenium",
+  "version": "1.0.0",
+  "dependencies": {
+    "chromedriver": "^86.0.0",
+    "delay": "^4.4.0",
+    "express": "^4.17.1",
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
