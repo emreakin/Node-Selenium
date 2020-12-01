@@ -1,7 +1,7 @@
 # Node-Selenium
 
 Node-Selenium is an example of selenium using google search.
-You can get more informations [in selenium-webdriver](https://www.npmjs.com/package/selenium-webdriver).
+You can get more informations in [selenium-webdriver](https://www.npmjs.com/package/selenium-webdriver).
 
 ## Installation
 
